@@ -1,2 +1,2 @@
 # LeapYear
-write a year you think it's leap year
+Type an 'year' and know its ''leap year'' or 'not' ?
